@@ -1,0 +1,2 @@
+Message #1: 1 + x^2 + a x^3
+Message #2: a^27 x^2 + a^2 x^3 + a^52 x^5
