@@ -1,0 +1,6 @@
+[package]
+name = "GaloisField_Analyzer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
